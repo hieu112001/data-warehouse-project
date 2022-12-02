@@ -70,7 +70,7 @@ In order to have a copy of the project up and running locally, you will need to 
 ![Artists Table](/assets/images/artists_data.png "Artists Table")
 
 ### Songplays Table
-![Songplays Table](/assets/images/songplays_data.png "Songplays Table")
+![Songplays Table](/assets/images/song_plays_data.png "Songplays Table")
 
 ### Songs Table
 ![Songs Table](/assets/images/songs_data.png "Songs Table")
